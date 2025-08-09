@@ -84,6 +84,15 @@
     "xiaomaomi": {
       "api": "https://zy.xmm.hk/api.php/provide/vod",
       "name": "小猫咪资源"
-    }
+    },    
+    "CK资源": {
+      "api": "https://ckzy.me/api.php/provide/vod",
+      "name": "CK资源"
+    },
+    "Jkun资源": {
+      "api": "https://jkunzyapi.com/api.php/provide/vod",
+      "name": "Jkun资源"
+    },
+    
   }
 }
